@@ -26,16 +26,24 @@
     "@nestjs/mapped-types": "*",
     "@nestjs/passport": "^11.0.5",
     "@nestjs/platform-express": "^11.0.1",
+<<<<<<< HEAD
     "@nestjs/swagger": "^11.2.0",
     "@nestjs/typeorm": "^11.0.0",
+=======
+>>>>>>> 1cc8cdf3c84b83a15b6bb558dea6f8efaee7b9e4
     "bcrypt": "^6.0.0",
     "class-transformer": "^0.5.1",
     "class-validator": "^0.14.2",
     "passport-jwt": "^4.0.1",
+<<<<<<< HEAD
     "pg": "^8.16.3",
     "reflect-metadata": "^0.2.2",
     "rxjs": "^7.8.1",
     "typeorm": "^0.3.27"
+=======
+    "reflect-metadata": "^0.2.2",
+    "rxjs": "^7.8.1"
+>>>>>>> 1cc8cdf3c84b83a15b6bb558dea6f8efaee7b9e4
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.2.0",
